@@ -26,7 +26,7 @@ SECRET_KEY = 'lzym6lnxa3%)!h4&dl4z=6k8+^dtj0v)jvbg8#*-z*w0g7@u)%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0']
+ALLOWED_HOSTS = ['physicsxyz.pythonanywhere.com','0.0.0.0']
 
 
 # Application definition
